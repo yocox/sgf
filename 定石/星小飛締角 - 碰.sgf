@@ -1,0 +1,28 @@
+(;CA[big5]AP[MultiGo:4.4.4]SZ[19]C[星小飛締角 - 碰]MULTIGOGM[0]
+;B[pd];B[qf];W[pc]
+(;B[qc]N[內扳取地];W[oc];B[qb];W[od];B[pe];W[kc]DM[1])
+(;B[oc]N[外扳取勢]
+(;W[qd]N[最強應對]
+(;B[pe];W[qb];B[ob];W[re];B[rf];W[rc]N[兩分]GB[1])
+(;B[qc];W[pb]
+(;B[ob];W[pe];B[od];W[qe];B[rc];W[qh]C[黑棋取角上實空，白旗在編上有根據地]DM[1])
+(;B[rd];W[od];B[qe];W[nc]N[白滿意])))
+(;W[ob]C[AI 出現以前是常見的下法，AI 出現以後被證明是虧的]GB[1]
+(;B[pb];W[qc];B[qb];W[od];B[nc];W[qd];B[pe]
+(;W[rb];B[nb];W[qa];B[oa];W[sc]C[白旗做活，但活的很小，而且黑其外勢非常厚]GB[1])
+(;W[nb];B[rb]C[至此白三子死]N[白三子死];W[mc];B[nd];W[md];B[ne]C[黑角上實空非常大，白虧]
+GB[2]))
+(;B[qc];W[pb];B[nc];W[nb];B[mc]
+(;W[qb];B[rc];W[mb];B[lc]C[白棋只能在二路爬活，非常委屈]GB[2])
+(;W[rc]TE[1]
+(;B[qd];W[qb])
+(;B[qb];W[qd];B[rd];W[qe];B[rb];W[re];B[sc];W[pe];B[od];W[qh]GB[1]))))
+(;W[qc]GB[1];B[ob];W[re];B[rf];W[qe]
+(;B[pf];W[pe];B[oe];W[qd];B[od];W[rb]C[白活，但活的很小。黑外勢強壯，黑滿意
+]GB[1])
+(;AB[qi]C[黑邊上有支援的時候，可以強硬擋住白棋，白棋必死。
+
+但我沒懂為何邊上沒有支援的時候就不能擋住？]
+;B[pe]N[白死]
+(;W[rb];B[pb];W[qb];B[se]N[白死])
+(;W[pb];B[se];W[rd];B[rb])))))
